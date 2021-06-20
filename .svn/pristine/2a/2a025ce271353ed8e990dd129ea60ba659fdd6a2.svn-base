@@ -1,0 +1,18 @@
+{
+  "systemParams": "darwin-x64-72",
+  "modulesFolders": [
+    "node_modules"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "dayjs@^1.8.28",
+    "uview-ui@^1.3.61"
+  ],
+  "lockfileEntries": {
+    "dayjs@^1.8.28": "https://registry.npm.taobao.org/dayjs/download/dayjs-1.8.28.tgz#37aa6201df483d089645cb6c8f6cef6f0c4dbc07",
+    "uview-ui@^1.3.61": "https://registry.npm.taobao.org/uview-ui/download/uview-ui-1.3.61.tgz?cache=0&sync_timestamp=1592545221469&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fuview-ui%2Fdownload%2Fuview-ui-1.3.61.tgz#e272ead80f729d79ec8e5754c40e710df333ae5f"
+  },
+  "files": [],
+  "artifacts": {}
+}

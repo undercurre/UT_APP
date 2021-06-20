@@ -1,0 +1,1127 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/links/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/system/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/woOnline/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/woOnline/index2",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/woOffline/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/supplyPlaceReel/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/DefaultPrintSet/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/lowWarning/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/producline/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/producOffline/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/brushBarcode/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/chargingInfo/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/takeOff/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/connectReel/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/matchMaterials/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/materialsReset/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/rollInfo/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/modifyQuantity/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/excipientsOperation/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/stencil/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/voiceSet/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/systemSet/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/lineSet/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductionBoard/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/pluginFeeding/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/update/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/feidaRepair/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/feidaRepair/index2",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/replaceBarcode/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/productScrapping/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/productLine/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/splitBarcode/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsEquipKeep/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsEquipKeepCheck/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsEquipKeepList/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilStorage/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilChange/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilCollaruse/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilReturn/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilMaintain/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilClean/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilClean/YT-index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtResourceProess/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtFeederMaintain/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtFeederRepair/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+
+		{
+			"path": "pages/SmtFeederScrap/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtFeederReplace/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FeidaInventory/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FeidaInventory/details",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FeidaInventory/recording",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsScraperReturn/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsScraperUsr/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsScraperReturn/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtResourceProessFree/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsScraperClean/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/MSDControlOperations/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/OffLinePreparation/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/OffLinePreparation/index2",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/OfflineDischarge/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/OfflineMaterial/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/HandPlugOfflinePreparation/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/HandPlugOfflineLoading/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SmtStencilCollaruse/first",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FixtureQuery/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FixtureCollar/index2",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FixtureCollar/first",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FixtureReturn/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FixtureWarehouse/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/FixtureDump/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/TraceTongs/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/MesTongsInfo/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ToolingInventory/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ToolingInventory/details",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ToolingQuery/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ToolingVerification/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ToolingVerification/details",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ToolingVerification/recording",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ForTooling/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsEquipment/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/EquipmentInventory/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/EquipmentInventory/maintain",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/EquipmentService/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/EquipmentService/Service",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductLineMaterial_StartJob/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductLineMaterial_LoadingOperation/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductLineMaterial_Search/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductLineMaterial_OfflineOperations/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		// --- 创维版 产线备料
+		{
+			"path": "pages/Skyworth_ProductLineMaterial_StartJob/index2",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/Skyworth_ProductLineMaterial_LoadingOperation/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/Skyworth_ProductLineMaterial_Search/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/Skyworth_ProductLineMaterial_OfflineOperations/index2",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		// ---
+		{
+			"path": "pages/SteelMesh/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductLineChaLiao/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductionInformation/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/CollectProducts/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/AutomaticPackaging/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/UncodedReport/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/BluetoothPrintingTest/index2",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/AccessoryQuery/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/WMSServiceSet/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/BarcodeInventoryCut/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/wifiPrintSet/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/BarcodeCopy/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/PalletSweep/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/MakeUpPass/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsContainerList/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ProductionReturns/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/MesPartShelf/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/Offshelf/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/NuclearMaterial/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/NuclearMaterial/NuclearDetails",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/Materialinfo/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsEquipRepairHead/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/SfcsEquipRepairHeadDo/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/storage/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/report/index",
+			"style": {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+		}
+	    
+        ,{
+            "path" : "pages/ComponentUnbund/index",
+            "style" : {
+				"navigationBarTitleText": "loading...",
+				"bounce": "none",
+				"titleNView": false,
+				"navigationStyle": "custom"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "MES_APP",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#6B7374",
+		"selectedColor": "#009c50",
+		"borderStyle": "white",
+		"backgroundColor": "#F6F7F8",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/menu_imgs/menu_1.png",
+				"selectedIconPath": "static/menu_imgs/menu_1a.png",
+				"text": "首页"
+			},
+			// {
+			// 	"pagePath": "pages/storage/index",
+			// 	"iconPath": "static/menu_imgs/menu_1.png",
+			// 	"selectedIconPath": "static/menu_imgs/menu_1a.png",
+			// 	"text": "仓储"
+			// },
+			/* {
+				"pagePath": "pages/report/index",
+				"iconPath": "static/menu_imgs/menu_1.png",
+				"selectedIconPath": "static/menu_imgs/menu_1a.png",
+				"text": "报表"
+			}, */
+			{
+				"pagePath": "pages/system/index",
+				"iconPath": "static/menu_imgs/menu_2.png",
+				"selectedIconPath": "static/menu_imgs/menu_2a.png",
+				"text": "设置"
+			}
+		]
+	},
+	"condition": { // 模式配置，仅开发期间生效
+		"current": 0, // 当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", // 模式名称
+			"path": "", // 启动页面，必选
+			"query": "" // 启动参数，在页面的onLoad函数里面得到
+		}]
+	},
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	}
+}

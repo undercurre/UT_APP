@@ -1,0 +1,11 @@
+{
+  "name": "MES_APP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ccb",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.8.28",
+    "uview-ui": "^1.3.61"
+  }
+}
